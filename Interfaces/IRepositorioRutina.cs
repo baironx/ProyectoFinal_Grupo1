@@ -10,3 +10,18 @@ namespace ProyectoFinal_Grupo1_AppEntrenamiento.Interfaces
     {
     }
 }
+
+
+
+using System.Collections.Generic;
+using AppEntrenamientoPersonal.Entidades;
+
+namespace AppEntrenamientoPersonal.Interfaces
+{
+    public interface IRepositorioRutina
+    {
+        void Agregar(Rutina rutina);
+        Rutina BuscarPorNombreAtleta(string nombreAtleta);
+        IEnumerable<Rutina> ObtenerTodas();
+    }
+}
