@@ -8,3 +8,12 @@ namespace AppEntrenamientoPersonal.Interfaces
 {
    
 }
+
+
+namespace AppEntrenamientoPersonal.Interfaces
+{
+    public interface IValidable
+    {
+        bool EsValido();
+    }
+}
