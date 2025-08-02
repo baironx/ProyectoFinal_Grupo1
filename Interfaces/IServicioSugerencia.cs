@@ -10,3 +10,13 @@ namespace ProyectoFinal_Grupo1_AppEntrenamiento.Interfaces
     {
     }
 }
+
+
+
+namespace AppEntrenamientoPersonal.Interfaces
+{
+    public interface IServicioSugerencia
+    {
+        string GenerarSugerenciaPersonalizada(string nombreAtleta);
+    }
+}
