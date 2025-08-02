@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProyectoFinal_Grupo1_AppEntrenamiento.Interfaces
+namespace AppEntrenamientoPersonal.Interfaces
 {
-    internal class IDescribible
+    public interface IDescribible
     {
+        string Describir();
     }
 }
