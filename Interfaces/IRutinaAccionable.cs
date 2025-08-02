@@ -11,3 +11,12 @@ namespace AppEntrenamientoPersonal.Interfaces
         string Describir();
     }
 }
+
+
+namespace AppEntrenamientoPersonal.Interfaces
+{
+    public interface IRutinaAccionable : IDescribible
+    {
+    }
+}
+
