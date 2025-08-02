@@ -10,3 +10,14 @@ namespace ProyectoFinal_Grupo1_AppEntrenamiento.Interfaces
     {
     }
 }
+
+
+using AppEntrenamientoPersonal.Entidades;
+
+namespace AppEntrenamientoPersonal.Interfaces
+{
+    public interface IFabricaRutina
+    {
+        Rutina CrearRutina(string tipo, string nombreAtleta, int duracion, string intensidad, string grupoMuscular);
+    }
+}
