@@ -1,0 +1,14 @@
+C:\Users\Cuadr\Desktop\ProyetoFinal_Grupo1_C2\AppEntrenamientoPersonal\bin\Debug\net8.0\AppEntrenamientoPersonal.exe
+C:\Users\Cuadr\Desktop\ProyetoFinal_Grupo1_C2\AppEntrenamientoPersonal\bin\Debug\net8.0\AppEntrenamientoPersonal.deps.json
+C:\Users\Cuadr\Desktop\ProyetoFinal_Grupo1_C2\AppEntrenamientoPersonal\bin\Debug\net8.0\AppEntrenamientoPersonal.runtimeconfig.json
+C:\Users\Cuadr\Desktop\ProyetoFinal_Grupo1_C2\AppEntrenamientoPersonal\bin\Debug\net8.0\AppEntrenamientoPersonal.dll
+C:\Users\Cuadr\Desktop\ProyetoFinal_Grupo1_C2\AppEntrenamientoPersonal\bin\Debug\net8.0\AppEntrenamientoPersonal.pdb
+C:\Users\Cuadr\Desktop\ProyetoFinal_Grupo1_C2\AppEntrenamientoPersonal\obj\Debug\net8.0\AppEntrenamientoPersonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cuadr\Desktop\ProyetoFinal_Grupo1_C2\AppEntrenamientoPersonal\obj\Debug\net8.0\AppEntrenamientoPersonal.AssemblyInfoInputs.cache
+C:\Users\Cuadr\Desktop\ProyetoFinal_Grupo1_C2\AppEntrenamientoPersonal\obj\Debug\net8.0\AppEntrenamientoPersonal.AssemblyInfo.cs
+C:\Users\Cuadr\Desktop\ProyetoFinal_Grupo1_C2\AppEntrenamientoPersonal\obj\Debug\net8.0\AppEntrenamientoPersonal.csproj.CoreCompileInputs.cache
+C:\Users\Cuadr\Desktop\ProyetoFinal_Grupo1_C2\AppEntrenamientoPersonal\obj\Debug\net8.0\AppEntrenamientoPersonal.dll
+C:\Users\Cuadr\Desktop\ProyetoFinal_Grupo1_C2\AppEntrenamientoPersonal\obj\Debug\net8.0\refint\AppEntrenamientoPersonal.dll
+C:\Users\Cuadr\Desktop\ProyetoFinal_Grupo1_C2\AppEntrenamientoPersonal\obj\Debug\net8.0\AppEntrenamientoPersonal.pdb
+C:\Users\Cuadr\Desktop\ProyetoFinal_Grupo1_C2\AppEntrenamientoPersonal\obj\Debug\net8.0\AppEntrenamientoPersonal.genruntimeconfig.cache
+C:\Users\Cuadr\Desktop\ProyetoFinal_Grupo1_C2\AppEntrenamientoPersonal\obj\Debug\net8.0\ref\AppEntrenamientoPersonal.dll

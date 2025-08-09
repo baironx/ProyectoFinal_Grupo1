@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cuadr\\Desktop\\ProyetoFinal_Grupo1_C2\\AppEntrenamientoPersonal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B74769-A424-4627-996F-EF87A646FBED}|AppEntrenamientoPersonal.csproj|c:\\users\\cuadr\\desktop\\proyetofinal_grupo1_c2\\appentrenamientopersonal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B74769-A424-4627-996F-EF87A646FBED}|AppEntrenamientoPersonal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cuadr\\Desktop\\ProyetoFinal_Grupo1_C2\\AppEntrenamientoPersonal\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Cuadr\\Desktop\\ProyetoFinal_Grupo1_C2\\AppEntrenamientoPersonal\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACcEAAAAAAAAAADwvxwEAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T00:40:56.883Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

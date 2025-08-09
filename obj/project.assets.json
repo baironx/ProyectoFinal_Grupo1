@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cuadr\\Desktop\\ProyectoFinal_Grupo1\\ProyectoFinal_Grupo1_AppEntrenamiento\\ProyectoFinal_Grupo1_AppEntrenamiento.csproj",
-      "projectName": "ProyectoFinal_Grupo1_AppEntrenamiento",
-      "projectPath": "C:\\Users\\Cuadr\\Desktop\\ProyectoFinal_Grupo1\\ProyectoFinal_Grupo1_AppEntrenamiento\\ProyectoFinal_Grupo1_AppEntrenamiento.csproj",
+      "projectUniqueName": "C:\\Users\\Cuadr\\Desktop\\ProyetoFinal_Grupo1_C2\\AppEntrenamientoPersonal\\AppEntrenamientoPersonal.csproj",
+      "projectName": "AppEntrenamientoPersonal",
+      "projectPath": "C:\\Users\\Cuadr\\Desktop\\ProyetoFinal_Grupo1_C2\\AppEntrenamientoPersonal\\AppEntrenamientoPersonal.csproj",
       "packagesPath": "C:\\Users\\Cuadr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cuadr\\Desktop\\ProyectoFinal_Grupo1\\ProyectoFinal_Grupo1_AppEntrenamiento\\obj\\",
+      "outputPath": "C:\\Users\\Cuadr\\Desktop\\ProyetoFinal_Grupo1_C2\\AppEntrenamientoPersonal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

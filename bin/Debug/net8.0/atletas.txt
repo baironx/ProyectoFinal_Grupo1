@@ -1,0 +1,1 @@
+{"Id":"44b25305-8cd8-4a7f-b6e4-5883716e46d1","Nombre":"Bairon Garcia","Peso":80,"Altura":1.7,"Objetivos":"Cardio","Nivel":"Intermedio","FechaRegistro":"2025-08-08T00:00:00-06:00"}
